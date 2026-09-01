@@ -13,3 +13,7 @@ Over the year, monthly GMV grew from about $44K to more than $106K, an increase 
 At the same time, the analysis uncovered two areas that could become problems if they are not addressed. Newer buyer cohorts were much less likely to return after their first month, and nearly half of total GMV came from just 10 sellers.
 
 Overall, the marketplace is growing quickly, but the next stage of growth should focus less on simply bringing in more users and more on improving early buyer retention and building a broader base of successful sellers.
+
+## Dashboard
+
+![Marketplace Growth & Seller Analytics Dashboard](marketplace_dashboard.png)
