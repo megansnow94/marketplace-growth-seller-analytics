@@ -18,6 +18,8 @@ Overall, the marketplace is growing quickly, but the next stage of growth should
 
 ![Marketplace Growth & Seller Analytics Dashboard](marketplace_dashboard.png)
 
+[View the Interactive Tableau Dashboard](https://public.tableau.com/shared/FJJTF7Y34?:display_count=n&:origin=viz_share_link)
+
 ## Key Findings
 
 - **Marketplace growth was strong:** Monthly GMV increased from **$44,250 in July 2025 to $106,611 in June 2026**, representing approximately **141% growth** over the analysis period.
