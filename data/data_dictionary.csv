@@ -1,0 +1,25 @@
+table_name,field_name,description
+users,user_id,Unique identifier for each marketplace user.
+users,signup_date,Date the user account was created.
+users,user_type,"User account type, standardized to buyer or seller."
+users,state,User state; standardized to uppercase where available.
+sellers,seller_id,Unique identifier for each seller.
+sellers,user_id,User account associated with the seller record.
+sellers,signup_date,Date the seller account was created.
+sellers,seller_status,"Seller account status, standardized to lowercase."
+listings,listing_id,Unique identifier for each marketplace listing.
+listings,seller_id,Seller who created the listing.
+listings,category,"Product category, standardized for casing and whitespace."
+listings,listing_date,Date the listing was created.
+listings,listing_price,Original listing price from the raw dataset.
+listings,listing_status,"Listing status such as sold, available, canceled, or removed."
+orders,order_id,Unique identifier for each marketplace order.
+orders,buyer_id,Buyer who placed the order.
+orders,seller_id,Seller associated with the order.
+orders,order_date,Date the order was placed.
+orders,order_status,"Order status such as completed, canceled, refunded, or pending."
+orders,order_total,Total dollar value of the order.
+order_items,order_id,Order associated with the item.
+order_items,listing_id,Listing purchased in the order.
+order_items,sale_price,Final sale price of the listing.
+order_items,quantity,Quantity of the listing purchased in the order.
